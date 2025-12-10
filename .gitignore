@@ -1,2 +1,11 @@
 SeerDrive/Miniconda3-latest-Linux-x86_64.sh
 SeerDrive/scripts/miscs/SeerDrive_checkpoints.ckpt
+errors_eval.err
+errors.err
+example1_job.err
+example1_job.log
+logs_eval.log
+logs.log
+job_submit.sh
+job2_submit.sh
+
