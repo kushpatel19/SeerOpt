@@ -1,4 +1,4 @@
-name: navsim_seerdrive
+name: seeropt
 channels:
   - conda-forge
 dependencies:
